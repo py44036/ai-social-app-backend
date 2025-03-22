@@ -1,0 +1,9 @@
+Sentence,Predicted Label,Confidence (%)
+"I love this AI tool, it's very useful!",positive,96.19
+The weather is okay today.,positive,66.7
+I hate getting stuck in traffic.,negative,91.8
+This product is neither good nor bad.,neutral,96.94
+I'm excited about the new iPhone launch!,positive,97.72
+The food at the restaurant was terrible.,negative,98.73
+This movie was an absolute masterpiece!,positive,98.75
+I don't know how to feel about this.,negative,68.78
